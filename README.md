@@ -3,7 +3,7 @@
 
 ### 💻 Full-Stack Developer | AI Enthusiast | Tech Explorer
 
-I'm passionate about programming, web development, artificial intelligence, and building modern digital experiences.
+I'm passionate about  programming, web development, artificial intelligence, and building modern digital experiences.
 
 I love exploring new technologies, developing creative projects, and improving my development skills.
 
